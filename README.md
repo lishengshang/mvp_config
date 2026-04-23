@@ -1,4 +1,4 @@
-# MPV-Config: 个人极致播放体验配置
+# MPV-Config: 个人播放器体验配置
 
 本项目是一套高度定制化的 [mpv](https://github.com/mpv-player/mpv) 播放器配置文件，旨在为 Windows 用户提供开箱即用的、高性能且功能丰富的视频播放体验。
 
@@ -51,6 +51,9 @@ portable_config/
 
 ## 参考与致谢
 
+本项目基于 [lishengshang/mpv-config](https://github.com/lishengshang/mpv-config) 进行二次开发与深度定制，特此鸣谢。
+
+- [lishengshang/mpv-config](https://github.com/lishengshang/mpv-config) - 本配置的原始基础项目。
 - [hooke007/mpv-lazy](https://github.com/hooke007/mpv-lazy) - 优秀的中文配置参考。
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 核心引擎。
 - 感谢所有开源脚本作者的贡献。
