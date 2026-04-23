@@ -1,0 +1,39 @@
+# Log files
+*.log
+files/*.log
+
+# Cache and state
+cache/
+files/
+state/
+watch_later/
+
+# Personal configuration
+config.json
+saved-props.json
+*.local.conf
+script-opts/sub_fastwhisper.conf
+script-opts/sub_assrt.conf
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Executables and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Specific files in this repo that might contain personal data
+files/recent.json
+files/watch_history.jsonl
+files/command_history.txt
+files/danmaku-history.json
+files/persistent_config.json
+files/mpv-fastwhisper-test.log
+files/sub_fastwhisper_api.log
